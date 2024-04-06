@@ -1,0 +1,15 @@
+PyMuPDF 
+fitz 
+pypdf  
+textract 
+langchain 
+langchainhub 
+chromadb 
+lark  
+python-dotenv 
+streamlit 
+faiss-cpu 
+altair  
+sentence_transformers 
+torch  
+transformers
